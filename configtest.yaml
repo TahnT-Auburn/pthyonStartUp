@@ -18,7 +18,8 @@ softwares:
 test:
   test1: Math Exam
   test2: English Exam
-  
+
+expnum: 1e3
 ---
 # set 2
 username: TahnT2

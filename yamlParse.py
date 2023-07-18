@@ -1,7 +1,7 @@
 # YAML MULTIPLE DOCUMENT PARSER CLASS #
 
 #%%
-import yaml
+import ruamel.yaml
 
 class YamlParser:
 
@@ -19,7 +19,7 @@ class YamlParser:
     def parseYaml(self):
 
         with open(self.name, 'r') as f:
-            data = yaml.safe_load_all(f)
+            data = ruamel.yaml.safe_load_all(f)
 
             iter = 0
             self.docNum = 0
