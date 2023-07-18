@@ -1,0 +1,80 @@
+# test yaml file
+---
+# set 1
+username: TahnT
+password: password619
+path:
+- VLC Media Player: /etc/vlc
+- Visual Studio Code: /etc/chrome
+- Google Chrome: /etc/chrome
+softwares:
+- VLC Media Player
+- Visual Studio Code
+- Google Chrome
+- Git Bash
+- Video Convertor
+- Node Js
+
+test:
+  test1: Math Exam
+  test2: English Exam
+  
+---
+# set 2
+username: TahnT2
+password: password6192
+path:
+- VLC Media Player: /etc/vlc2
+- Visual Studio Code: /etc/chrome2
+- Google Chrome: /etc/chrome2
+softwares:
+- VLC Media Player2
+- Visual Studio Code2
+- Google Chrome2
+- Git Bash2
+- Video Convertor2
+- Node Js2
+
+test:
+  test1: Math Exam2
+  test2: English Exam2
+
+---
+# set 3
+username: TahnT3 
+password: password6193
+path:
+- VLC Media Player: /etc/vlc3
+- Visual Studio Code: /etc/chrome3
+- Google Chrome: /etc/chrome3
+softwares:
+- VLC Media Player3
+- Visual Studio Code3
+- Google Chrome3
+- Git Bash3
+- Video Convertor3
+- Node Js3
+
+test:
+  test1: Math Exam3
+  test2: English Exam3
+
+---
+# set 4
+username: TahnT4 
+password: password6194
+path:
+- VLC Media Player: /etc/vlc4
+- Visual Studio Code: /etc/chrome4
+- Google Chrome: /etc/chrome4
+softwares:
+- VLC Media Player4
+- Visual Studio Code4
+- Google Chrome4
+- Git Bash4
+- Video Convertor4
+- Node Js4
+
+test:
+  test1: Math Exam4
+  test2: English Exam4

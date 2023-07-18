@@ -102,7 +102,6 @@ if shopOutput == 1:
         print(np.all_boots[boots], ':', np.all_boots_price[boots])
     ''' 
 
-
 elif shopOutput == 0:
     pass
 
