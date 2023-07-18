@@ -5,7 +5,7 @@ import yaml
 
 class YamlParser:
 
-    def __init__(self, name:str, setDesired:int=0):
+    def __init__(self, name:str, setDesired:int=1):
         
         assert setDesired > 0, f"Desired set: {setDesired}, must be positive and greater than zero (1st set = 0th index)"
 
