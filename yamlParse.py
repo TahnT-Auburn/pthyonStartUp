@@ -27,6 +27,7 @@ class YamlParser:
                 self.docNum += 1
                 if iter == self.setDesired-1:
                     self.docDesired = doc
+                    break
                 iter += 1
 
         return self.docNum, self.docDesired
